@@ -32,7 +32,7 @@ Execute the program using runserver command.
     <head>
         <title>My Timetable</title>
     </head>
-    <body bgcolor="orange">
+    <body bgcolor="rainbow">
         <img src="logo.png" width="1500">
         <table border="5" cellspacing="4" cellpadding="7" >
             <caption><b>SLOT  TIME  TABLE - ROHITH (25018770)</b></caption>
@@ -55,7 +55,7 @@ Execute the program using runserver command.
                 <td bgcolor="cyan">FWAD</td>
             </tr>
             <tr align="center">
-                <td bgcolor="black">10-12</td>
+                <td bgcolor="australien">10-12</td>
                 <td bgcolor="cyan">FWAD</td>
                 <td bgcolor="cyan">FWAD</td>
                 <td bgcolor="cyan">FAWD</td>
@@ -63,11 +63,11 @@ Execute the program using runserver command.
                 <td bgcolor="blue">English</td>
             </tr>
             <tr align="center">
-                <td bgcolor="black" >12-1</td>
+                <td bgcolor="amaranth">12-1</td>
                 <td colspan="6" bgcolor="purple" >LUNCH</td>
             </tr>
             <tr align="center">
-                <td bgcolor="black" >1-3</td>
+                <td bgcolor="gingerline" >1-3</td>
                 <td bgcolor="green">Python</td>
                 <td>Free Slot</td>
                 <td>Mentor Meet</td>
@@ -76,7 +76,7 @@ Execute the program using runserver command.
                 <td bgcolor="green">Python</td>
             </tr>
             <tr align="center">
-                <td bgcolor="black" >3-5</td>
+                <td bgcolor="falu">3-5</td>
                 <td bgcolor="green">Python</td>
                 <td colspan="3">Free slot</td>
                 <td bgcolor="green">Python</td>
@@ -86,7 +86,7 @@ Execute the program using runserver command.
         <br>
         <br>
         <table border="2" cellspacing="4" cellpadding="8">
-            <tr align="center" bgcolor="maroon">
+            <tr align="center" bgcolor="coquelicot">
                 <th>S. No</th>
                 <th>Subgect Code</th>
                 <th>Subject Name</th>
@@ -112,7 +112,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](<Screenshot (18).png>)
+![alt text](<Screenshot (19).png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
